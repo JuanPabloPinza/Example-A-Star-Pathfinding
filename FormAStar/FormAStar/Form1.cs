@@ -1,0 +1,7 @@
+namespace FormAStar
+{
+    public partial class Form1 : Form
+    {
+        // La inicialización está en Form1.Designer.cs
+    }
+}

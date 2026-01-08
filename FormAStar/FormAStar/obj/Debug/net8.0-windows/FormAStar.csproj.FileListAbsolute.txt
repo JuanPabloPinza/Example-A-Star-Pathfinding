@@ -1,0 +1,17 @@
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.Form1.resources
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.csproj.GenerateResource.cache
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.AssemblyInfoInputs.cache
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.AssemblyInfo.cs
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.csproj.CoreCompileInputs.cache
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.sourcelink.json
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\bin\Debug\net8.0-windows\FormAStar.exe
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\bin\Debug\net8.0-windows\FormAStar.deps.json
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\bin\Debug\net8.0-windows\FormAStar.runtimeconfig.json
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\bin\Debug\net8.0-windows\FormAStar.dll
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\bin\Debug\net8.0-windows\FormAStar.pdb
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.dll
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\refint\FormAStar.dll
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.pdb
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\FormAStar.genruntimeconfig.cache
+D:\ReposGitHub\Example-A-Star-Pathfinding\FormAStar\FormAStar\obj\Debug\net8.0-windows\ref\FormAStar.dll
